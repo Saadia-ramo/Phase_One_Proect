@@ -1,5 +1,4 @@
 # Microsoft Corporation: Movie venture project.
-![alt text](image.png)
 
 # Data Analysis Workflow for Microsoft's Movie Industry Venture
 
@@ -21,17 +20,13 @@ I have been tasked with assisting Microsoft in their venture into the movie indu
 
 - Employed descriptive statistics to gain insights into the dataset.
 - Utilized visualizations such as histograms, scatter plots, and box plots to understand the distribution of key variables.
-## Visual one : Domestic box office profit by production method.
-![alt text](image-3.png)
+
 
 ## Correlation Analysis
 
 - Investigated the correlation between movie budget and worldwide box office gross.
 - Identified patterns and trends to inform strategic decisions for Microsoft's movie productions.
-## Visual One : Correlation Analysis.
-![alt text](image-1.png)
-## Visual Two : Correlation Analysis
-![alt text](image-2.png)
+
 
 ## Crew Recommendations
 
